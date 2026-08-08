@@ -1,6 +1,6 @@
 # Wallpapers
 
-Coleção pessoal de wallpapers (~60 imagens).
+Coleção pessoal de wallpapers (~100 imagens).
 
 As imagens estão em [`wallpapers/`](wallpapers/).
 
